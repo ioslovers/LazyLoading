@@ -11,7 +11,7 @@ The purpose of this controller is just make good quality of application by user 
 
 <MTMarkdownOptions output='html4'>
    <h2>Screens Layout</h2>
-  <img border="0" src="LazyLoading / output_DvrIBF.gif" alt="" width="320" height="568">
+  <img border="0" src="LazyLoading /output_DvrIBF.gif" alt="" width="320" height="568">
 
 </MTMarkdownOptions>
 
